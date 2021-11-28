@@ -1,3 +1,4 @@
+![](https://media-exp1.licdn.com/dms/image/C5616AQF2fG7zRGGlcw/profile-displaybackgroundimage-shrink_200_800/0/1638119216488?e=1643846400&v=beta&t=GctyxCdb61cQBS0TTq0CNASjTSqjPuSsC5pJboVw_jE)
 <h1 align="center">Hi 👋, I'm Aktarina</h1>
 <h3 align="center">I'm MERN stack developer</h3>
 
