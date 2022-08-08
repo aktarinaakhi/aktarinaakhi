@@ -1,6 +1,6 @@
 ![](https://media-exp1.licdn.com/dms/image/C5616AQF2fG7zRGGlcw/profile-displaybackgroundimage-shrink_200_800/0/1638119216488?e=1643846400&v=beta&t=GctyxCdb61cQBS0TTq0CNASjTSqjPuSsC5pJboVw_jE)
 <h1 align="center">Hi 👋, I'm Aktarina</h1>
-<h3 align="center">I'm Full stack developer</h3>
+<h3 align="center">Full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aktarinaakhi&label=Profile%20views&color=0e75b6&style=flat" alt="aktarinaakhi" /> </p>
 
